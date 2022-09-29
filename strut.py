@@ -1,6 +1,6 @@
-!pip install sktime
-!pip install arff
-!pip install pyts
+#!pip install sktime
+#!pip install arff
+#!pip install pyts
 
 import numpy as np
 import pandas as pd
