@@ -1,4 +1,4 @@
-#!pip install sktime
+#!pip install sktime==0.13.0
 #!pip install arff
 #!pip install pyts
 
