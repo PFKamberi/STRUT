@@ -1,3 +1,7 @@
+#!pip install sktime==0.13.0
+#!pip install arff
+#!pip install pyts
+
 import numpy as np
 import pandas as pd
 import time
